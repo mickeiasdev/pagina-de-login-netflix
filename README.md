@@ -17,8 +17,6 @@ Este repositório contém uma página web desenvolvida como estudo pessoal. O ob
 - Estilização com CSS3
 - Boas práticas de organização de código
 
-> **EM BREVE:** *Responsividade para diferentes tamanhos de tela*
-
 ## 🛠️ Tecnologias Utilizadas
 
 - HTML5
@@ -27,8 +25,15 @@ Este repositório contém uma página web desenvolvida como estudo pessoal. O ob
 ## 📁 Estrutura do Projeto
 
 ```bash
+├── assets
+│   └── bg
+│   │   └── bg.jpg
+│   ├── css
+│   │   └── style.css
+│   └── img
+│       ├── facebook_logo.png
+│       └── netflix_logo.png
 ├── index.html
-├── style.css
 └── README.md
 ```
 
@@ -46,6 +51,10 @@ Durante o desenvolvimento deste projeto, foram aplicados os seguintes conceitos:
 - Aplicação de seletores e propriedades do CSS3 para estilização e layout
 - Organização e separação de responsabilidades entre HTML e CSS
 
-## 📌 Observações
+## 👨‍💻 Autor
 
-Este projeto não tem relação com a disciplina acadêmica e foi desenvolvido como um estudo por fora.
+Desenvolvido por [Mickeias Coelho](https://github.com/mickeiasdev)
+
+Sinta-se à vontade para fazer contribuições ou melhorar o código.
+
+📌 **Observação:** Este projeto foi desenvolvido como parte de um estudo pessoal com o objetivo de praticar e aprofundar conhecimentos na área.
